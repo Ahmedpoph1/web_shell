@@ -1,5 +1,3 @@
-# WebShell
-This is a webshell open source project https://github.com/xl7dev/WebShell
 
 ## Category 
 
@@ -30,5 +28,3 @@ This is a webshell open source project https://github.com/xl7dev/WebShell
 - War
 - Xml
 - Other
-
-Author: 小乐天  From: Knownsec
